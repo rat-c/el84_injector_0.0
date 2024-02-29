@@ -1,6 +1,6 @@
 /**
  * @file incbin.h
- * @author Dale Weiler
+ * @origin_author Dale Weiler
  * @brief Utility for including binary files
  *
  * Facilities for including binary files into the current translation unit and
