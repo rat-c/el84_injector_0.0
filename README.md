@@ -1,5 +1,7 @@
 # el84_injector_0.0
 
+![image](https://github.com/rat-c/el84_injector_0.0/assets/89196953/547e42a1-4090-47c5-910a-02713f6477b5)
+
 `el84_injector_0.0` is a code injection tool developed for educational and security research purposes. It demonstrates advanced techniques in code injection and evasion, focusing on Windows environments. The tool utilizes API hashing, custom encoding/decoding methods, and direct manipulation of process memory to inject payloads into target processes without detection by Windows Defender.
 
 - **API Hashing**: Utilizes API hashing to locate necessary WinAPI functions dynamically.
